@@ -10,7 +10,7 @@
 <!-- Auto Tipado Sub Título -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Practicante+De+Sistemas;Egresado+de+ingenieria+de+sistemas&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Practicante+De+Sistemas;Egresado+de+Ing.+de+Sistemas&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
 </p>
 
 
@@ -35,7 +35,14 @@
 <!-- Mis Tecnologias -->
 <details open> <summary><h2>👨‍💻 Mis herramientas de trabajo</h2></summary>
   <!-- Pagina para los iconos https://ileriayo.github.io/markdown-badges/#table-of-contents -->
-   
+
+   <h2>📊 Análisis de Datos</h2>
+   <p>
+      <a href="#"><img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+      <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+      <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white"></a>
+   </p>
   <h2>Frontend</h2>
   <p>
       <a href="#"><img alt="HTML" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
