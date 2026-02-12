@@ -10,7 +10,7 @@
 <!-- Auto Tipado Sub Título -->
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com/demo/">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Practicante+De+Sistemas;Est.+de+ingenieria+de+sistemas&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Practicante+De+Sistemas;Egresado+de+ingenieria+de+sistemas&center=true&width=440&height=45&color=4DB5FF&vCenter=true&pause=800&size=25" /></a>
 </p>
 
 
